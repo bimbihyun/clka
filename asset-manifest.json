@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clka/static/css/main.f34b584a.css",
-    "main.js": "/clka/static/js/main.5a430fd9.js",
+    "main.js": "/clka/static/js/main.df253c40.js",
     "static/js/453.4ed9b270.chunk.js": "/clka/static/js/453.4ed9b270.chunk.js",
     "index.html": "/clka/index.html",
     "main.f34b584a.css.map": "/clka/static/css/main.f34b584a.css.map",
-    "main.5a430fd9.js.map": "/clka/static/js/main.5a430fd9.js.map",
+    "main.df253c40.js.map": "/clka/static/js/main.df253c40.js.map",
     "453.4ed9b270.chunk.js.map": "/clka/static/js/453.4ed9b270.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f34b584a.css",
-    "static/js/main.5a430fd9.js"
+    "static/js/main.df253c40.js"
   ]
 }
